@@ -18,8 +18,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ab-gul&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/ab-gul)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ab-gul)  
-
-![Profile views](https://gpvc.arturio.dev/ab-gul)
